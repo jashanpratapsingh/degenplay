@@ -3,8 +3,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   // without a title, warpcast won't validate your frame
-  title: "chessmates",
-  description: "Team up for this gambit! Choose black or white, vote for moves, and rack up points for your side. Chess with a twist!",
+  title: "Degen_play",
+  description: "Pool your resources together with us and let's play the game",
 };
 
 export default function RootLayout({
